@@ -4,7 +4,7 @@
 ## Top Football Manager (By Gamegou Ltd.)
 ## Available on Android, Ios, Windows Phone
 
-![Image of Intro](images/splash.jpg | width=400)
+![Image of Intro](images/splash.jpg =400x)
 
 ## Introduction
 
@@ -13,7 +13,7 @@ Top Football Manager is a sport game which focuses on how to manage a team of fo
 
 ## Basic Component
 
-![Image of game](images/game.jpg | width=400)
+![Image of game](images/game.jpg =400x)
 
 ### Game Space
 
@@ -50,20 +50,20 @@ Same as other games about football, Top FM has many artifacts about football suc
 
 In start of the season, manager must find the players suitable with tactic of the manager. He can find from academy, auction, scout, transaction, or negotiation with another manager to get the plyer.
 
-![Image of Market](images/market.jpg | width=400)
+![Image of Market](images/market.jpg =400x)
 
 For oprional, manager can find FA (football Association for his team) and send friend requests for other managers.
 After The team is created, manager can start the program like training, friendly match, and development of stadium, youth center, hospital, training ground, and utilities. Then manager also can find sponsorship for his team.
 
-![Image of Sponsor](images/sponsor.jpg | width=400)
+![Image of Sponsor](images/sponsor.jpg =400x)
 
-![Image of Train](images/train.jpg | width=400)
+![Image of Train](images/train.jpg =400x)
 
-![Image of FA](images/fa.jpg | width=400)
+![Image of FA](images/fa.jpg =400x)
 
-![Image of Friends](images/friends.jpg | width=400)
+![Image of Friends](images/friends.jpg =400x)
 
-![Image of Stadium](images/stadium.jpg | width=400)
+![Image of Stadium](images/stadium.jpg =400x)
 
 In this game, there are regular league which is held every day. Every league have 14 teams ready to play every match. In total, every team must perform for 26 league match. Each match will be played once a day, usually about 19.30 O'clock. In the end of season, the teams in first to seventh position in clasemen will promote to next level, and eighth to fourteen will stay in the level. 
 
@@ -74,12 +74,12 @@ Then, competitions similar to afc or uefa champions league are held in every sea
 Before a team plays a match, manager can train his team as well. Then manager can set the tactic for his team. He can choose players who are played as starting eleven. Manager also decide formation, tactic, and movement of the players, whether defensive, offensive, control, common, or counter attack. 
 
 
-![Image of Formation](images/formation.jpg | width=400)
+![Image of Formation](images/formation.jpg =400x)
 
 When game is played, manager can still monitor the team in order that he can change tactic or players suddenly if there are mistakes, injured players, or when opponent change the strategy of team. Manager can replace 3 maximum for players similar to real match. 
 
 
-![Image of Tactic](images/tactics.jpg | width=400)
+![Image of Tactic](images/tactics.jpg =400x)
 
 ### Plot	
 
@@ -97,7 +97,7 @@ There are many challenges which are feld when playing this game.
 3. How to manage a young player from the academy, because a young player can increase perform of the team.
 3. How to maintain morale of the players which influence how the players play.    
 
-![Image of Teamwork](images/teamwork.jpg | width=400)
+![Image of Teamwork](images/teamwork.jpg =400x)
 
 ## Game Mechanics
 
