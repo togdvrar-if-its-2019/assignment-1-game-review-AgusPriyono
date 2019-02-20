@@ -103,3 +103,9 @@ There are many challenges which are feld when playing this game.
 
 ### Player Mechanics
 The players that manager arranges will play the game according to strategy or tactic manager sets automaticly by artificial intelligent.
+### Mobility
+This game using full touchscreen for manager to help him monitor and manage the team.
+### Randomize participants of competition
+System automaticly invite you into league, cup, union, and champions in beinning of season.
+### Randomize enemy in tour
+if you try to tour, you will randomly meet a team to fight
